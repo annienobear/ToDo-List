@@ -4,7 +4,7 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 
-final String url = 'http://137.220.34.221:8080';
+final String url = 'http://137.220.34.221:3333';
 
 void main() => runApp(LoginInView());
 
